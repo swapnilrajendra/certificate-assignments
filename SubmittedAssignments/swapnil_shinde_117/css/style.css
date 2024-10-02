@@ -94,7 +94,7 @@
     border-bottom: 2.25pt solid black;
 
 }
-.certificate-wrapper .certificate-content .para {
+.certificate-wrapper .certificate-content .initial-content {
     top: 101mm;
     position: absolute;
     left: 44mm;
@@ -121,7 +121,7 @@
     margin: auto;
     line-height: normal;
 }
-.certificate-wrapper .certificate-content .address {
+.certificate-wrapper .certificate-content .org-address {
     color: aqua;
     position: absolute;
     left: 20mm;
@@ -171,7 +171,7 @@
     text-transform: uppercase;
     color: black;
 }
-.certificate-wrapper .certificate-content .sign-of-directore {
+.certificate-wrapper .certificate-content .sign-director {
     left: 119mm;
     top: 179mm;
     font-size: 11pt;
